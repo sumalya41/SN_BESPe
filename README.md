@@ -176,18 +176,7 @@ print(meta_df)
 
 ## 📜 License & Citation
 
-This dataset is provided for research and educational purposes. 
-
-If you use this dataset in your research, please cite this repository:
-```bibtex
-@misc{sn-bes-dataset-2026,
-  author = {sumalya},
-  title = {SN-BES: High-Frequency Crypto Market Microstructure Dataset},
-  year = {2026},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/sumalya41/sn-bes}}
-}
-```
+This dataset is private purposes. 
 
 ---
 *Built with ❤️ for the Quantitative Finance & Crypto Research Community.*
