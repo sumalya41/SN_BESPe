@@ -193,7 +193,3 @@ If you use this dataset in your research, please cite this repository:
 *Built with ❤️ for the Quantitative Finance & Crypto Research Community.*
 ```
 
-### 💡 Tips for your GitHub Repo:
-1. **Replace Placeholders**: Make sure to update the `yourusername` in the citation block at the bottom.
-2. **Add a `.gitignore`**: Since this is a data-heavy project, ensure you add `*.parquet`, `*.csv`, and `__pycache__/` to your `.gitignore` so you don't accidentally commit the massive data files to GitHub! Only commit the code and the README.
-3. **Kaggle Integration**: If this is linked to a Kaggle dataset, you can add a badge at the very top of the README: `[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/datasets/your-dataset-link)`
