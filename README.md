@@ -185,7 +185,7 @@ If you use this dataset in your research, please cite this repository:
   title = {SN-BES: High-Frequency Crypto Market Microstructure Dataset},
   year = {2026},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/sn-bes}}
+  howpublished = {\url{https://github.com/sumalya41/sn-bes}}
 }
 ```
 
