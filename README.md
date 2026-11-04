@@ -181,7 +181,7 @@ This dataset is provided for research and educational purposes.
 If you use this dataset in your research, please cite this repository:
 ```bibtex
 @misc{sn-bes-dataset-2026,
-  author = {Your Name/Team},
+  author = {sumalya},
   title = {SN-BES: High-Frequency Crypto Market Microstructure Dataset},
   year = {2026},
   publisher = {GitHub},
